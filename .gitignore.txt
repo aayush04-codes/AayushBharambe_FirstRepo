@@ -1,0 +1,19 @@
+ .bash_history
+        .vscode/
+        AppData/
+        Desktop/
+        Documents/
+        Downloads/
+        Favorites/
+        IntelGraphicsProfiles/
+        Links/
+        NTUSER.DAT
+        NTUSER.DAT{31a5a103-4602-11ed-a3df-c99796b5c7ae}.TM.blf
+        NTUSER.DAT{31a5a103-4602-11ed-a3df-c99796b5c7ae}.TMContainer00000000000000000001.regtrans-ms
+        NTUSER.DAT{31a5a103-4602-11ed-a3df-c99796b5c7ae}.TMContainer00000000000000000002.regtrans-ms
+        OneDrive/
+        Saved Games/
+        Searches/
+        ntuser.dat.LOG1
+        ntuser.dat.LOG2
+        ntuser.ini
